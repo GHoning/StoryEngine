@@ -1,0 +1,14 @@
+{
+	"id": 2,
+	"description": "Your are in room 2, Generated out of a text file!",
+    "options": [
+        {
+            "description": "1. Go to room 0",
+            "goto": 0
+        },
+        {
+            "description": "2. Go to room 3",
+            "goto": 3
+        }
+    ]
+}

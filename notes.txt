@@ -1,0 +1,12 @@
+Figure out what to do in with hosting the different stories.
+And of course the base I have now.
+Set up git hub for this stuff as soon as I have this on my laptop.
+
+
+Features for later:
+Inventory system.
+Graphics:
+http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/graphics.html
+
+To create a .exe
+http://www.py2exe.org/1

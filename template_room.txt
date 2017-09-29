@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"description": "some adventure description",
+    "options": [
+        {
+            "description": "option1",
+            "goto": 0
+        },
+        {
+            "description": "option2",
+            "goto": 1
+        }
+    ]
+}
